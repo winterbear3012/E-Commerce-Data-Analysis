@@ -1,0 +1,4 @@
+data/raw/*.csv
+.vscode/
+__pycache__/
+*.pyc
